@@ -1,3 +1,5 @@
 # tamza007.github.io
  
-Hello world NECS1305 !!
+ชื่อ: ภควัต นามสกุล: รัตนการุณ
+งานอดิเรก: Computer Game ,Sport Basketball,Badminton
+Skill: Basic Programing ,Pentesting ,Sql ,Database  
